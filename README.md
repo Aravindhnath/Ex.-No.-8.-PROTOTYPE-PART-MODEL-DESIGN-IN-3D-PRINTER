@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-
+![Output](/Exp8_EMPD.png)
 
 ### Name: Aravindhnath T R
 ### Register Number: 212222100005
